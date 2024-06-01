@@ -21,7 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- SLE
 - Sierra Leone
 - Sierra Leona
 - سيراليون
