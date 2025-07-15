@@ -40,11 +40,18 @@ markerFolder: ./Sierra_Leone~Western/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Sierra_Leone/Counties/Sierra_Leone~Western|Sierra_Leone~Western]] 
-- [[../../../../../../_public/geo/Continent/Africa/Sierra_Leone/Counties/Sierra_Leone~Western.public|Sierra_Leone~Western.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Sierra_Leone/Counties/Sierra_Leone~Western.internal|Sierra_Leone~Western.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Sierra_Leone/Counties/Sierra_Leone~Western.protect|Sierra_Leone~Western.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Sierra_Leone/Counties/Sierra_Leone~Western.private|Sierra_Leone~Western.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Sierra_Leone/Counties/Sierra_Leone~Western.personal|Sierra_Leone~Western.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Sierra_Leone/Counties/Sierra_Leone~Western.secret|Sierra_Leone~Western.secret]] 
+
+### #is_/same_as :: [Sierra_Leone~Western](/_Standards/Earth/Continent/Africa/Africa~West/Sierra_Leone/Provinces~Sierra_Leone/Sierra_Leone~Western.md) 
+
+### #is_/same_as :: [Sierra_Leone~Western.public](/_public/Earth/Continent/Africa/Africa~West/Sierra_Leone/Provinces~Sierra_Leone/Sierra_Leone~Western.public.md) 
+
+### #is_/same_as :: [Sierra_Leone~Western.internal](/_internal/Earth/Continent/Africa/Africa~West/Sierra_Leone/Provinces~Sierra_Leone/Sierra_Leone~Western.internal.md) 
+
+### #is_/same_as :: [Sierra_Leone~Western.protect](/_protect/Earth/Continent/Africa/Africa~West/Sierra_Leone/Provinces~Sierra_Leone/Sierra_Leone~Western.protect.md) 
+
+### #is_/same_as :: [Sierra_Leone~Western.private](/_private/Earth/Continent/Africa/Africa~West/Sierra_Leone/Provinces~Sierra_Leone/Sierra_Leone~Western.private.md) 
+
+### #is_/same_as :: [Sierra_Leone~Western.personal](/_personal/Earth/Continent/Africa/Africa~West/Sierra_Leone/Provinces~Sierra_Leone/Sierra_Leone~Western.personal.md) 
+
+### #is_/same_as :: [Sierra_Leone~Western.secret](/_secret/Earth/Continent/Africa/Africa~West/Sierra_Leone/Provinces~Sierra_Leone/Sierra_Leone~Western.secret.md)
 

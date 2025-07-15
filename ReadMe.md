@@ -131,10 +131,4 @@ Capital :: [[Freetown]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Sierra_Leone|Sierra_Leone]] 
-- [[../../../../../_internal/geo/Continent/Africa/Africa~West/Sierra_Leone.internal|Sierra_Leone.internal]] 
-- [[../../../../../_protect/geo/Continent/Africa/Africa~West/Sierra_Leone.protect|Sierra_Leone.protect]] 
-- [[../../../../../_private/geo/Continent/Africa/Africa~West/Sierra_Leone.private|Sierra_Leone.private]] 
-- [[../../../../../_personal/geo/Continent/Africa/Africa~West/Sierra_Leone.personal|Sierra_Leone.personal]] 
-- [[../../../../../_secret/geo/Continent/Africa/Africa~West/Sierra_Leone.secret|Sierra_Leone.secret]] 
+

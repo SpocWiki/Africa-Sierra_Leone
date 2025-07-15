@@ -40,11 +40,18 @@ markerFolder: ./Sierra_Leone~Northern/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Sierra_Leone/Counties/Sierra_Leone~Northern|Sierra_Leone~Northern]] 
-- [[../../../../../../_public/geo/Continent/Africa/Sierra_Leone/Counties/Sierra_Leone~Northern.public|Sierra_Leone~Northern.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Sierra_Leone/Counties/Sierra_Leone~Northern.internal|Sierra_Leone~Northern.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Sierra_Leone/Counties/Sierra_Leone~Northern.protect|Sierra_Leone~Northern.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Sierra_Leone/Counties/Sierra_Leone~Northern.private|Sierra_Leone~Northern.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Sierra_Leone/Counties/Sierra_Leone~Northern.personal|Sierra_Leone~Northern.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Sierra_Leone/Counties/Sierra_Leone~Northern.secret|Sierra_Leone~Northern.secret]] 
+
+### #is_/same_as :: [Sierra_Leone~Northern](/_Standards/Earth/Continent/Africa/Africa~West/Sierra_Leone/Provinces~Sierra_Leone/Sierra_Leone~Northern.md) 
+
+### #is_/same_as :: [Sierra_Leone~Northern.public](/_public/Earth/Continent/Africa/Africa~West/Sierra_Leone/Provinces~Sierra_Leone/Sierra_Leone~Northern.public.md) 
+
+### #is_/same_as :: [Sierra_Leone~Northern.internal](/_internal/Earth/Continent/Africa/Africa~West/Sierra_Leone/Provinces~Sierra_Leone/Sierra_Leone~Northern.internal.md) 
+
+### #is_/same_as :: [Sierra_Leone~Northern.protect](/_protect/Earth/Continent/Africa/Africa~West/Sierra_Leone/Provinces~Sierra_Leone/Sierra_Leone~Northern.protect.md) 
+
+### #is_/same_as :: [Sierra_Leone~Northern.private](/_private/Earth/Continent/Africa/Africa~West/Sierra_Leone/Provinces~Sierra_Leone/Sierra_Leone~Northern.private.md) 
+
+### #is_/same_as :: [Sierra_Leone~Northern.personal](/_personal/Earth/Continent/Africa/Africa~West/Sierra_Leone/Provinces~Sierra_Leone/Sierra_Leone~Northern.personal.md) 
+
+### #is_/same_as :: [Sierra_Leone~Northern.secret](/_secret/Earth/Continent/Africa/Africa~West/Sierra_Leone/Provinces~Sierra_Leone/Sierra_Leone~Northern.secret.md)
 

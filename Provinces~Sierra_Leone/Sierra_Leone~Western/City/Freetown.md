@@ -1,4 +1,4 @@
-﻿---
+---
 location: [8.48445,-13.23445] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Sierra_Leone/City/Freetown|Freetown]] 
-- [[../../../../../../_public/geo/Continent/Africa/Sierra_Leone/City/Freetown.public|Freetown.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Sierra_Leone/City/Freetown.internal|Freetown.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Sierra_Leone/City/Freetown.protect|Freetown.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Sierra_Leone/City/Freetown.private|Freetown.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Sierra_Leone/City/Freetown.personal|Freetown.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Sierra_Leone/City/Freetown.secret|Freetown.secret]] 
+
+### #is_/same_as :: [Freetown](/_Standards/Earth/Continent/Africa/Africa~West/Sierra_Leone/Provinces~Sierra_Leone/Sierra_Leone~Western/City/Freetown.md) 
+
+### #is_/same_as :: [Freetown.public](/_public/Earth/Continent/Africa/Africa~West/Sierra_Leone/Provinces~Sierra_Leone/Sierra_Leone~Western/City/Freetown.public.md) 
+
+### #is_/same_as :: [Freetown.internal](/_internal/Earth/Continent/Africa/Africa~West/Sierra_Leone/Provinces~Sierra_Leone/Sierra_Leone~Western/City/Freetown.internal.md) 
+
+### #is_/same_as :: [Freetown.protect](/_protect/Earth/Continent/Africa/Africa~West/Sierra_Leone/Provinces~Sierra_Leone/Sierra_Leone~Western/City/Freetown.protect.md) 
+
+### #is_/same_as :: [Freetown.private](/_private/Earth/Continent/Africa/Africa~West/Sierra_Leone/Provinces~Sierra_Leone/Sierra_Leone~Western/City/Freetown.private.md) 
+
+### #is_/same_as :: [Freetown.personal](/_personal/Earth/Continent/Africa/Africa~West/Sierra_Leone/Provinces~Sierra_Leone/Sierra_Leone~Western/City/Freetown.personal.md) 
+
+### #is_/same_as :: [Freetown.secret](/_secret/Earth/Continent/Africa/Africa~West/Sierra_Leone/Provinces~Sierra_Leone/Sierra_Leone~Western/City/Freetown.secret.md)
+
