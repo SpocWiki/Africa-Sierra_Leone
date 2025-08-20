@@ -1,37 +1,38 @@
 ---
 location:
-- 8.48445
-- -13.2345
+  - 8.48445
+  - -13.2345
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 27019
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Sierra Leone
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Sierra Leone
-- Sierra Leona
-- سيراليون
-- 塞拉利昂
-- Сьерра-Леоне
-- the Republic of Sierra Leone
-- la República de Sierra Leona
+  - Sierra Leone
+  - Sierra Leona
+  - سيراليون
+  - 塞拉利昂
+  - Сьерра-Леоне
+  - the Republic of Sierra Leone
+  - la República de Sierra Leona
 Languages:
-- en-SL
-- men
-- tem
+  - en-SL
+  - men
+  - tem
 ---
 
 
