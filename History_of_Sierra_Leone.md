@@ -64,3 +64,20 @@ Commons_category: History of Sierra Leone
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Sierra%20Leone) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Sierra_Leone/History_of_Sierra_Leone|History_of_Sierra_Leone]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Sierra_Leone/History_of_Sierra_Leone.public|History_of_Sierra_Leone.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Sierra_Leone/History_of_Sierra_Leone.internal|History_of_Sierra_Leone.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Sierra_Leone/History_of_Sierra_Leone.protect|History_of_Sierra_Leone.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Sierra_Leone/History_of_Sierra_Leone.private|History_of_Sierra_Leone.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Sierra_Leone/History_of_Sierra_Leone.personal|History_of_Sierra_Leone.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Sierra_Leone/History_of_Sierra_Leone.secret|History_of_Sierra_Leone.secret]] 
+

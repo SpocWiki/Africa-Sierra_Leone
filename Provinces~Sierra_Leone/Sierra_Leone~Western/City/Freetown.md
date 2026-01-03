@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Freetown](/_Standards/Earth/Continent/Africa/Africa~West/Sierra_Leone/Provinces~Sierra_Leone/Sierra_Leone~Western/City/Freetown.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Sierra_Leone/Provinces~Sierra_Leone/Sierra_Leone~Western/City/Freetown|Freetown]] 
 
-### #is_/same_as :: [Freetown.public](/_public/Earth/Continent/Africa/Africa~West/Sierra_Leone/Provinces~Sierra_Leone/Sierra_Leone~Western/City/Freetown.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Sierra_Leone/Provinces~Sierra_Leone/Sierra_Leone~Western/City/Freetown.public|Freetown.public]] 
 
-### #is_/same_as :: [Freetown.internal](/_internal/Earth/Continent/Africa/Africa~West/Sierra_Leone/Provinces~Sierra_Leone/Sierra_Leone~Western/City/Freetown.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Sierra_Leone/Provinces~Sierra_Leone/Sierra_Leone~Western/City/Freetown.internal|Freetown.internal]] 
 
-### #is_/same_as :: [Freetown.protect](/_protect/Earth/Continent/Africa/Africa~West/Sierra_Leone/Provinces~Sierra_Leone/Sierra_Leone~Western/City/Freetown.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Sierra_Leone/Provinces~Sierra_Leone/Sierra_Leone~Western/City/Freetown.protect|Freetown.protect]] 
 
-### #is_/same_as :: [Freetown.private](/_private/Earth/Continent/Africa/Africa~West/Sierra_Leone/Provinces~Sierra_Leone/Sierra_Leone~Western/City/Freetown.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Sierra_Leone/Provinces~Sierra_Leone/Sierra_Leone~Western/City/Freetown.private|Freetown.private]] 
 
-### #is_/same_as :: [Freetown.personal](/_personal/Earth/Continent/Africa/Africa~West/Sierra_Leone/Provinces~Sierra_Leone/Sierra_Leone~Western/City/Freetown.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Sierra_Leone/Provinces~Sierra_Leone/Sierra_Leone~Western/City/Freetown.personal|Freetown.personal]] 
 
-### #is_/same_as :: [Freetown.secret](/_secret/Earth/Continent/Africa/Africa~West/Sierra_Leone/Provinces~Sierra_Leone/Sierra_Leone~Western/City/Freetown.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Sierra_Leone/Provinces~Sierra_Leone/Sierra_Leone~Western/City/Freetown.secret|Freetown.secret]] 
 

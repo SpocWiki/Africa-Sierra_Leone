@@ -40,17 +40,17 @@ markerFolder: ./Sierra_Leone~Eastern/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sierra_Leone~Eastern](/_Standards/Earth/Continent/Africa/Africa~West/Sierra_Leone/Provinces~Sierra_Leone/Sierra_Leone~Eastern.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Sierra_Leone/Provinces~Sierra_Leone/Sierra_Leone~Eastern|Sierra_Leone~Eastern]] 
 
-### #is_/same_as :: [Sierra_Leone~Eastern.public](/_public/Earth/Continent/Africa/Africa~West/Sierra_Leone/Provinces~Sierra_Leone/Sierra_Leone~Eastern.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Sierra_Leone/Provinces~Sierra_Leone/Sierra_Leone~Eastern.public|Sierra_Leone~Eastern.public]] 
 
-### #is_/same_as :: [Sierra_Leone~Eastern.internal](/_internal/Earth/Continent/Africa/Africa~West/Sierra_Leone/Provinces~Sierra_Leone/Sierra_Leone~Eastern.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Sierra_Leone/Provinces~Sierra_Leone/Sierra_Leone~Eastern.internal|Sierra_Leone~Eastern.internal]] 
 
-### #is_/same_as :: [Sierra_Leone~Eastern.protect](/_protect/Earth/Continent/Africa/Africa~West/Sierra_Leone/Provinces~Sierra_Leone/Sierra_Leone~Eastern.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Sierra_Leone/Provinces~Sierra_Leone/Sierra_Leone~Eastern.protect|Sierra_Leone~Eastern.protect]] 
 
-### #is_/same_as :: [Sierra_Leone~Eastern.private](/_private/Earth/Continent/Africa/Africa~West/Sierra_Leone/Provinces~Sierra_Leone/Sierra_Leone~Eastern.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Sierra_Leone/Provinces~Sierra_Leone/Sierra_Leone~Eastern.private|Sierra_Leone~Eastern.private]] 
 
-### #is_/same_as :: [Sierra_Leone~Eastern.personal](/_personal/Earth/Continent/Africa/Africa~West/Sierra_Leone/Provinces~Sierra_Leone/Sierra_Leone~Eastern.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Sierra_Leone/Provinces~Sierra_Leone/Sierra_Leone~Eastern.personal|Sierra_Leone~Eastern.personal]] 
 
-### #is_/same_as :: [Sierra_Leone~Eastern.secret](/_secret/Earth/Continent/Africa/Africa~West/Sierra_Leone/Provinces~Sierra_Leone/Sierra_Leone~Eastern.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Sierra_Leone/Provinces~Sierra_Leone/Sierra_Leone~Eastern.secret|Sierra_Leone~Eastern.secret]] 
 
