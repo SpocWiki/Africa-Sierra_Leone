@@ -1,10 +1,10 @@
 ---
 aliases:
 has_id_wikidata: Q1477561
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]"
-instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]"
-facet_of: "[[_Standards/WikiData/WD~Sierra_Leone,1044]]"
-country: "[[_Standards/WikiData/WD~Sierra_Leone,1044]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953|WD~WikiProject_African_diaspora,15304953]]"
+instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377|WD~history_of_a_country_or_state,17544377]]"
+facet_of: "[[_Standards/WikiData/WD~Sierra_Leone,1044|WD~Sierra_Leone,1044]]"
+country: "[[_Standards/WikiData/WD~Sierra_Leone,1044|WD~Sierra_Leone,1044]]"
 Dewey_Decimal_Classification: "966.4"
 Commons_category: History of Sierra Leone
 ---
