@@ -28,7 +28,7 @@ coordinates: [[Freetown]]
 markerFile: [[Freetown]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

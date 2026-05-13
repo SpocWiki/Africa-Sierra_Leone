@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Sierra_Leone~Eastern/
 markerFolder: ./Sierra_Leone~Eastern/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

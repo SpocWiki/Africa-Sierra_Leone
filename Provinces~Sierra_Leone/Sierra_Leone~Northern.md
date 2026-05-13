@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Sierra_Leone~Northern/
 markerFolder: ./Sierra_Leone~Northern/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
