@@ -148,7 +148,7 @@ coat_of_arms: '[[/_Standards/WikiData/WD~coat_of_arms_of_Sierra_Leone,242938|WD~
 head_of_state: '[[/_Standards/WikiData/WD~Julius_Maada_Bio,283829|WD~Julius_Maada_Bio,283829]]'
 described_by_source:
 - '[[/_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]'
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 - '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 - '[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 - '[[/_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758|WD~Desktop_Encyclopedic_Dictionary,63284758]]'
@@ -450,7 +450,7 @@ dv_UNTERM_Chinese_Formal: 塞拉利昂共和国
 dv_UNTERM_French_Formal: la République de Sierra Leone
 dv_UNTERM_Russian: Сьерра-Леоне
 dv_UNTERM_Russian_Formal: Республика Сьерра-Леоне
-dv_Region_Name: '[[../../Africa|Africa]]'
+dv_Region_Name: '[[../../../Africa|Africa]]'
 dv_Intermediate_Region_Name: '[[Western Africa]]'
 dv_Sub-region_Name: '[[Sub-Saharan Africa]]'
 dv_Region: 2
@@ -477,7 +477,7 @@ dv_ISO2: SL
 dv_ISO3: SLE
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Sierra_Leone,1044|WD~Sierra_Leone,1044]]'
+  - '[[../../../../../WikiData/WD~Sierra_Leone,1044|WD~Sierra_Leone,1044]]'
   - '[[/_Standards/Earth/Continent/Africa/Africa~West/Sierra_Leone|Sierra_Leone]]'
   - '[[/_public/Earth/Continent/Africa/Africa~West/Sierra_Leone.public|Sierra_Leone.public]]'
   - '[[/_internal/Earth/Continent/Africa/Africa~West/Sierra_Leone.internal|Sierra_Leone.internal]]'
@@ -764,7 +764,7 @@ dv_has_:
 dv_has_name_de: Sierra Leone
 dv_Area-Total: 71740
 dv_Area-Land: 71620
-dv_has_place_continent: '[[../../Africa|Africa]]'
+dv_has_place_continent: '[[../../../Africa|Africa]]'
 dv_VehicleCode: SLE
 dv_Alcohol-l: 9.7
 dv_Language-Id: 499
@@ -772,7 +772,7 @@ dv_has_place_longitude: -13.2345
 dv_has_place_latitude: 8.48445
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Sierra_Leone,1044|WD~Sierra_Leone,1044]]'
+- '[[../../../../../WikiData/WD~Sierra_Leone,1044|WD~Sierra_Leone,1044]]'
 - '[[/_Standards/Earth/Continent/Africa/Africa~West/Sierra_Leone|Sierra_Leone]]'
 - '[[/_public/Earth/Continent/Africa/Africa~West/Sierra_Leone.public|Sierra_Leone.public]]'
 - '[[/_internal/Earth/Continent/Africa/Africa~West/Sierra_Leone.internal|Sierra_Leone.internal]]'
@@ -854,12 +854,12 @@ ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 ISO2 = `=this.dv_ISO2`
 ISO3 = `=this.dv_ISO3` 
 
-#is_/same_as :: [[../../../../WikiData/WD~Sierra_Leone,1044|WD~Sierra_Leone,1044]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Sierra_Leone,1044|WD~Sierra_Leone,1044]] 
 
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Sierra_Leone/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 ## #has_/map 
 
@@ -882,7 +882,7 @@ defaultZoom: 11
 
 ```leaflet
 id: Sierra_Leone_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -909,7 +909,7 @@ VehicleCode = `=this.dv_VehicleCode`
 Capital :: [[Freetown]]  
 ![[Coat_of_arms_of_Sierra_Leone.svg|550]]
 
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Sierra-leone.mp3|Anthem-Sierra-leone.mp3]]
+![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Sierra-leone.mp3|Anthem-Sierra-leone.mp3]]
 
 ![[Flag_of_Sierra_Leone.svg|350]]
 
